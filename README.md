@@ -1,3 +1,7 @@
+# React portfolio
+
+![Jayoda Halloluwa _ Portfolio](https://user-images.githubusercontent.com/68233906/171402632-a224e41b-31bc-4e93-9450-d8baaff1f1fc.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
